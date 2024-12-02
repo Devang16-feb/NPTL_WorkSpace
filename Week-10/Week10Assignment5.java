@@ -1,27 +1,25 @@
-/* Complete the code segment to rename an already created table named �PLAYERS� into �SPORTS�.*/
-
 import java.sql.*;
 
-public class Week10Assignment5 {
-    public static void main(String args[]) {
-        try {
+public class Week10Assignment5 
+{
+    public static void main(String args[]) 
+    {
+        try 
+        {
             Connection conn = null;
             Statement stmt = null;
             String DB_URL = "jdbc:sqlite:/tempfs/db";
             System.setProperty("org.sqlite.tmpdir", "/tempfs");
 
-            // Open a connection
             conn = DriverManager.getConnection(DB_URL);
             stmt = conn.createStatement();
 
-            // The statement containing SQL command to create table "players"
             String CREATE_TABLE_SQL = "CREATE TABLE players (UID INT, First_Name VARCHAR(45), Last_Name VARCHAR(45), Age INT);";
-            // Execute the statement containing SQL command
+    
             stmt.executeUpdate(CREATE_TABLE_SQL);
-            // Write the SQL command to rename a table
+
             String alter = "ALTER TABLE players RENAME TO sports;";
 
-            // Execute the SQL command
             stmt.executeUpdate(alter);
             ResultSet rs = stmt.executeQuery("SELECT * FROM sports;");
             ResultSetMetaData rsmd = rs.getMetaData();
@@ -37,7 +35,9 @@ public class Week10Assignment5 {
             stmt.close();
             conn.close();
 
-        } catch (Exception e) {
+        } 
+        catch (Exception e) 
+        s{
             System.out.println(e);
         }
     }
