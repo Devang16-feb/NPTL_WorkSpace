@@ -1,9 +1,9 @@
-# [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
+# [Programming_In_Java_NPTEL](https://github.com/Devang16-feb/NPTL_WorkSpace/tree/main)
 
 
-## [WEEK 9](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-9)
+## [WEEK 9](https://github.com/Devang16-feb/NPTL_WorkSpace/tree/main/Week-9)
 
-  [Java Week 9:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-9/Week9Assignment1.java) Complete the code to develop a BASIC CALCULATOR that can perform operations like Addition, Subtraction, Multiplication and Division.
+  [Java Week 9:Q1](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-9/Week9Assignment1.java) Complete the code to develop a BASIC CALCULATOR that can perform operations like Addition, Subtraction, Multiplication and Division.
 ```text
 Note the following points carefully:
 1. Use only double datatype to store calculated numeric values.
@@ -18,7 +18,7 @@ Input:
 Output:
 	       5+6 = 11
 ```  
-  [Java Week 9:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-9/Week9Assignment2.java) Complete the code to develop an ADVANCED CALCULATOR that emulates all the functions of the GUI Calculator as shown in the image.
+  [Java Week 9:Q2](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-9/Week9Assignment2.java) Complete the code to develop an ADVANCED CALCULATOR that emulates all the functions of the GUI Calculator as shown in the image.
 
 ![GUI Calculator](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc19_cs84/GUI.JPG)
 
@@ -43,7 +43,7 @@ Input_2:
 Output_2:
   ```
 
-  [Java Week 9:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-9/Week9Assignment3.java) Complete the code to perform a 45 degree anti clock wise rotation with respect to the center of a 5 × 5 2D Array as shown below:
+  [Java Week 9:Q3](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-9/Week9Assignment3.java) Complete the code to perform a 45 degree anti clock wise rotation with respect to the center of a 5 × 5 2D Array as shown below:
 ```text
 INPUT:
               00100
@@ -65,7 +65,7 @@ Note the following points carefully:
 2. The input and output array size must be of dimension 5 × 5 and nothing else.
 ```
 
-  [Java Week 9:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-9/Week9Assignment4.java) A program needs to be developed which can mirror reflect any 5 × 5 2D character array into its side-by-side reflection. Write suitable code to achieve this transformation as shown below:
+  [Java Week 9:Q4](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-9/Week9Assignment4.java) A program needs to be developed which can mirror reflect any 5 × 5 2D character array into its side-by-side reflection. Write suitable code to achieve this transformation as shown below:
 ```text
  INPUT:                                       OUTPUT:
                OOXOO                                        OOXOO
@@ -80,7 +80,7 @@ Note the following points carefully:
 3. Only side-by-side reflection should be performed i.e. ABC || CBA.
 ```
 
-  [Java Week 9:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-9/Week9Assignment5.java) Write suitable code to develop a 2D Flip-Flop Array with dimension 5 × 5, which replaces all input elements with values 0 by 1 and 1 by 0. An example is shown below:
+  [Java Week 9:Q5](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-9/Week9Assignment5.java) Write suitable code to develop a 2D Flip-Flop Array with dimension 5 × 5, which replaces all input elements with values 0 by 1 and 1 by 0. An example is shown below:
 ```text
 INPUT:
                00001
