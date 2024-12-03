@@ -1,6 +1,6 @@
  [Java Week 1:Q1](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-1/Week1Assignment1.java) To find the perimeter and area of a circle given a value of radius.
 
-  [Java Week 1:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-1/Week1Assignment2.java) To find the largest among three numbers x, y, and z.
+  [Java Week 1:Q2](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-1/Week1Assignment2.java) To find the largest among three numbers x, y, and z.
 
   [Java Week 1:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-1/Week1Assignment3.java) Consider First n even numbers starting from zero(0) and calculate sum of  all the numbers divisible by 3 from 0 to n. Print the sum.
 
