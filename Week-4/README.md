@@ -1,12 +1,12 @@
-# [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
+# [Programming_In_Java_NPTEL](https://github.com/Devang16-feb/NPTL_WorkSpace/tree/main)
 
-## [WEEK 4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
+## [WEEK 4](https://github.com/Devang16-feb/NPTL_WorkSpace/tree/main/Week-4)
 
-  [Java Week 4:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment1.java) To execute the following program successfully. You should import the correct package(s) and/or class(s) to complete the code.
+  [Java Week 4:Q1](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-4/Week4Assignment1.java) To execute the following program successfully. You should import the correct package(s) and/or class(s) to complete the code.
   
-  [Java Week 4:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment2.java) To print the current year. 
+  [Java Week 4:Q2](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-4/Week4Assignment2.java) To print the current year. 
   
-  [Java Week 4:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment3.java) The program in this assignment is attempted to print the following output: 
+  [Java Week 4:Q3](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-4/Week4Assignment3.java) The program in this assignment is attempted to print the following output: 
   
  -----------------OUTPUT-------------------
    
@@ -20,9 +20,9 @@
 
 -----------------OUTPUT-------------------
   
-  [Java Week 4:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment4.java)  To call the default method in the interface First and Second.
+  [Java Week 4:Q4](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-4/Week4Assignment4.java)  To call the default method in the interface First and Second.
 
-  [Java Week 4:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-4/Week4Assignment4.java)  To print the following output.
+  [Java Week 4:Q5](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-4/Week4Assignment5.java)  To print the following output.
 
 -----------------OUTPUT-------------------
 
