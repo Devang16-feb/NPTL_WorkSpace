@@ -1,9 +1,9 @@
-# [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
+# [Programming_In_Java_NPTEL](https://github.com/Devang16-feb/NPTL_WorkSpace/tree/main)
 
 
-## [WEEK 8](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-8)
+## [WEEK 8](https://github.com/Devang16-feb/NPTL_WorkSpace/tree/main/Week-8)
 
-  [Java Week 8:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-8/Week8Assignment1.java) Write a program which will print a pyramid of  "*" 's of height "n" and print the number of "*" 's in the pyramid.
+  [Java Week 8:Q1](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-8/Week8Assignment1.java) Write a program which will print a pyramid of  "*" 's of height "n" and print the number of "*" 's in the pyramid.
 ```text
 For example:
 
@@ -18,7 +18,7 @@ output:
 25
 ```
 
-  [Java Week 8:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-8/Week8Assignment2.java) Write a program which will print a pascal pyramid of  "*" 's of height "l" .
+  [Java Week 8:Q2](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-8/Week8Assignment2.java) Write a program which will print a pascal pyramid of  "*" 's of height "l" .
 ```text
 For example:
 
@@ -35,7 +35,7 @@ output :
 * * * * * * * *
 ```
   
-  [Java Week 8:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-8/Week8Assignment3.java) Write a program which will print a pyramid of  "numbers" 's of height "n" and print the sum of all number's in the pyramid.
+  [Java Week 8:Q3](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-8/Week8Assignment3.java) Write a program which will print a pyramid of  "numbers" 's of height "n" and print the sum of all number's in the pyramid.
 ```text
 For example:
 
@@ -51,7 +51,7 @@ output:
 95
 ```
 
-  [Java Week 8:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-8/Week8Assignment4.java) Write a program to print symmetric Pascal's triangle of "*" 's of  height "l" of odd length . If input "l" is even then your program will print "Invalid line number".
+  [Java Week 8:Q4](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-8/Week8Assignment4.java) Write a program to print symmetric Pascal's triangle of "*" 's of  height "l" of odd length . If input "l" is even then your program will print "Invalid line number".
 ```text
 For example:
 
@@ -71,7 +71,7 @@ output:
 Invalid line number
 ```
 
-  [Java Week 8:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-8/Week8Assignment5.java) Write a program to display any digit(n) from 0-9 using "7 segment  display". 
+  [Java Week 8:Q5](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-8/Week8Assignment5.java) Write a program to display any digit(n) from 0-9 using "7 segment  display". 
 
 ```text
 
