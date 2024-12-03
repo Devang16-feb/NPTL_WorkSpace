@@ -1,9 +1,9 @@
-# [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
+# [Programming_In_Java_NPTEL](https://github.com/Devang16-feb/NPTL_WorkSpace/tree/main)
 
 
-## [WEEK 6](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6)
+## [WEEK 6](https://github.com/Devang16-feb/NPTL_WorkSpace/tree/main/Week-6)
 
-  [Java Week 6:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6/Week6Assignment1.java)
+  [Java Week 6:Q1](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-6/Week6Assignment1.java)
   Complete the code segment to print the following using the concept of extending the Thread class in Java:
 
 -----------------OUTPUT-------------------
@@ -11,13 +11,13 @@
 Thread is Running.
 
 
-  [Java Week 6:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6/Week6Assignment2.java)
+  [Java Week 6:Q2](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-6/Week6Assignment2.java)
   In the following program, a thread class ThreadRun is created using the Runnable interface which prints "Thread using Runnable interface". Complete the main class to create a thread object of the class ThreadRun and run the thread,
   
-  [Java Week 6:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6/Week6Assignment3.java)
+  [Java Week 6:Q3](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-6/Week6Assignment3.java)
   A part of the Java program is given, which can be completed in many ways, for example using the concept of thread, etc.  Follow the given code and complete the program so that your program prints the message "NPTEL Java". Your program should utilize the given interface/ class.
   
-  [Java Week 6:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6/Week6Assignment4.java)
+  [Java Week 6:Q4](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-6/Week6Assignment4.java)
   Execution of two or more threads occurs in a random order. The keyword 'synchronized' in Java is used to control the execution of thread in a strict sequence. In the following, the program is expected to print some numbers. Do the necessary use of 'synchronized' keyword, so that, the program prints the output in the following order:
   
 -----------------OUTPUT-------------------
@@ -43,7 +43,7 @@ Thread is Running.
 500
 
 
-  [Java Week 6:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-6/Week6Assignment5.java)
+  [Java Week 6:Q5](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-6/Week6Assignment5.java)
   Add necessary codes to print the following:
   
 -----------------OUTPUT-------------------
