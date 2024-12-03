@@ -1,4 +1,4 @@
- [Java Week 1:Q1](Week-1/Week1Assignment1.java) To find the perimeter and area of a circle given a value of radius.
+ [[Java Week 1:Q1](Week-1/Week1Assignment1.java)](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-1/Week1Assignment1.java) To find the perimeter and area of a circle given a value of radius.
 
   [Java Week 1:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-1/Week1Assignment2.java) To find the largest among three numbers x, y, and z.
 
