@@ -1,47 +1,24 @@
-/* Complete the following program to calculate the average age of the players in the table �PLAYERS�.
-
-Structure of Table 'PLAYERS' is given below:
-
-
-Column
-
-UID
-
-First_Name
-
-Last_Name
-
-Age
-
-Type
-
-Integer
-
-Varchar (45)
-
-Varchar (45)
-
-Integer
-
-*/
-
 import java.sql.*;
 
-public class Week11Assignment4 {
-    public static void main(String args[]) {
-        try {
+public class Week11Assignment4 
+{
+    public static void main(String args[]) 
+    {
+        try 
+        {
             Connection conn = null;
             Statement stmt = null;
             String DB_URL = "jdbc:sqlite:/tempfs/db";
             System.setProperty("org.sqlite.tmpdir", "/tempfs");
             String query = "";
-            // Open a connection
+        
             conn = DriverManager.getConnection(DB_URL);
             stmt = conn.createStatement();
             String CREATE_TABLE_SQL = "CREATE TABLE players ( UID INT, first_name VARCHAR(45), last_name VARCHAR(45), age INT);";
             stmt.executeUpdate(CREATE_TABLE_SQL);
             query = " insert into Players (UID, first_name, last_name, age)" + " values (?, ?, ?, ?)";
             PreparedStatement preparedStmt = conn.prepareStatement(query);
+            
             preparedStmt.setInt(1, 1);
             preparedStmt.setString(2, "Rama");
             preparedStmt.setString(3, "Gopala");
@@ -65,10 +42,11 @@ public class Week11Assignment4 {
                 total = total + Integer.parseInt(rs.getString(4));
             }
 
-            // Output
             System.out.println("Average age of players is " + (total / count));
             conn.close();
-        } catch (Exception e) {
+        } 
+        catch (Exception e) 
+        {
             System.out.println(e);
         }
     }
