@@ -1,9 +1,9 @@
-# [Programming_In_Java_NPTEL](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide)
+# [Programming_In_Java_NPTEL](https://github.com/Devang16-feb/NPTL_WorkSpace/tree/main)
 
 
-## [WEEK 12](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/tree/WEEK-12)
+## [WEEK 12](https://github.com/Devang16-feb/NPTL_WorkSpace/tree/main/Week-12)
 
-  [Java Week 12:Q1](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week12Assignment1.java) Complete the code to develop an extended version of the ADVANCED CALCULATOR with added special functions that emulates all the functions of the GUI Calculator as shown in the image.
+  [Java Week 12:Q1](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-12/Week12Assignment1.java) Complete the code to develop an extended version of the ADVANCED CALCULATOR with added special functions that emulates all the functions of the GUI Calculator as shown in the image.
 
 ![GUI Calculator](https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc19_cs84/GUI1.JPG)
 
@@ -35,7 +35,7 @@ Output_3:
 
 ```
 
-  [Java Week 12:Q2](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week12Assignment2.java) A partial code fragment is given. The URL class object is created in try block.You should write appropriate method( )  to print the protocol name and host name from the given url string.
+  [Java Week 12:Q2](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-12/Week12Assignment2.java) A partial code fragment is given. The URL class object is created in try block.You should write appropriate method( )  to print the protocol name and host name from the given url string.
 ```text
 For example:
 https://www.xyz.com:1080/index.htm
@@ -43,7 +43,7 @@ https://www.xyz.com:1080/index.htm
 protocol://host:port/filename
 ```
 
-  [Java Week 12:Q3](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week12Assignment3.java) Write a program to create a record by taking inputs using Scanner class as first name as string ,last name as string ,roll number as integer ,subject1 mark as float,subject2 mark as float. Your program should print in the format 
+  [Java Week 12:Q3](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-12/Week12Assignment3.java) Write a program to create a record by taking inputs using Scanner class as first name as string ,last name as string ,roll number as integer ,subject1 mark as float,subject2 mark as float. Your program should print in the format 
 ```text
   "name  rollnumber avgmark".
 
@@ -58,9 +58,9 @@ output:
 ramdas 123 25.0
 ```
 
-  [Java Week 12:Q4](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week12Assignment4.java) A program code is given to call the parent class static method and instance method in derive class without  creating object of parent class. You should write the appropriate code so that the program print the contents of static method() and instance method () of parent class.
+  [Java Week 12:Q4](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-12/Week12Assignment4.java) A program code is given to call the parent class static method and instance method in derive class without  creating object of parent class. You should write the appropriate code so that the program print the contents of static method() and instance method () of parent class.
 
-  [Java Week 12:Q5](https://github.com/omunite215/NPTEL-Programming-in-Java-Ultimate-Guide/blob/WEEK-11/Week12Assignment5.java) Write a recursive function to print the sum of  first n odd integer numbers. The recursive function should have the prototype
+  [Java Week 12:Q5](https://github.com/Devang16-feb/NPTL_WorkSpace/blob/main/Week-12/Week12Assignment5.java) Write a recursive function to print the sum of  first n odd integer numbers. The recursive function should have the prototype
 ```text
  " int sum_odd_n(int n) ".
 
